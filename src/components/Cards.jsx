@@ -10,7 +10,7 @@ function Cards() {
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'> 
-            <CardItem  
+            <CardItem img={'/images/img-9.jpg'} 
               src='/images/img-9.jpg'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
@@ -37,7 +37,7 @@ function Cards() {
               path='/products'
             />
             <CardItem
-              src={'/images/img-14.jpg'}
+              src='/images/img-14.jpg'
               text='Explore the Sahara Desert on a guided tour'
               label='Adventure'
               path='/products'
