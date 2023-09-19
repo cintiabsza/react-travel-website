@@ -1,4 +1,17 @@
-# React Travel Website
+## React Travel Website
+
+# What this application does
+
+This is a responsive travel website, that could be used to  companies to sell trips or experiencies. The application works both web or mobile.
+
+# What I've learned
+
+* react components
+* react hooks
+* react props 
+* how to routing in react
+
+# Credits
 
 The original version of this project was developed by <a href="https://github.com/briancodex"> @briancodex. 
 
